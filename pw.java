@@ -1,6 +1,11 @@
 class pw
 {
-    publiv void mi()
-    {
-    }
+   public void m1()
+   {
+        ///code
+   }
+   public void m1()
+   {
+       ///code2
+   }
 }
